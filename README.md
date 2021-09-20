@@ -1,1 +1,1 @@
-# COVID-19-Hospitalizations-
+# COVID-19-Hospitalizations
